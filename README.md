@@ -1,10 +1,10 @@
 # PPNameSort
-Sort the name array model by A-Z
 
 ## 对App中的联系人数组模型进行排序. 
 
 ##### 使用方式
 1 #import "PPNameSort.h"
+
 2 创建模型(从服务器)
 
 ```objc 
